@@ -1,4 +1,4 @@
-/*the final part of our previous code is to just add maximum number of attempts and final score */
+
 import java.util.Scanner;
 import java.util.Random;
 public class GuessingGame{
